@@ -1,16 +1,12 @@
 - 👋 Hi, I’m @Ednavan
 
-Formação em Análise  e Desenvolvimento de Sistemas pela 
+Education in Systems Analysis and Development by Uninassau
 
-Formação academica em Técnico em Manutenção e Suporte em Informática  pelo Instituto Federal de Educação Ciência e Técnologia da Paraíba(IFPB
+Academic training in Technical Maintenance and Support from the Institute of Education, Science and Technology of Paraíba (IFPB)
+- 👀  I am interested in always contributing to the DEVS community
+- 🌱 Learning new languages is important, however, knowing how to solve problems in several technologies is the differential
 
-- 👀 I’m interested in  Contriuir sempre para comunidade de DEVS
-
-- 🌱 I’m currently poderia dizer que estou aprendendo novas linguagens, porém acho melhor ir mais além, posso dizer que estou sempre trabalhando nas questões de 
-resoluções de problemas, tendo como foco novas tecnologias.
-
-- 💞️ I’m looking to collaborate on  desenvolver sempre o conchecimento sobre as tecnologias do mercado
-
+- 💞️ I try to collaborate to always develop new technologies in the market
 
 <!---
 Ednavan/Ednavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
