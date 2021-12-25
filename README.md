@@ -1,6 +1,6 @@
 [![Matrix SVG](matrix.svg)](https://www.youtube.com/channel/UCXm0xRtDRrdnvkW24WmkBqA)
 
-- 👋 Hi, I’m @Ednavan
+## Olá, eu sou Ednavan! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 # Minhas skills :computer:
 <div align="center">
