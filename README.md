@@ -15,11 +15,14 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/Ednavan/icone-angular@main/angularjs/angular.svg">
+    
    
 </div>
 </br>
 
-Education in Systems Analysis and Development 
+# Education in Systems Analysis and Development 
 
 Academic training in Technical Maintenance and Support from the Institute of Education, Science and Technology of Paraíba (IFPB)
 - 👀  I am interested in always contributing to the DEVS community
