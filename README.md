@@ -29,6 +29,13 @@ Academic training in Technical Maintenance and Support from the Institute of Edu
 
 - 💞️ I try to collaborate to always develop new technologies in the market
 
+
+## Meus contatos :iphone:
+<a href="https://github.com/Ednavan">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Ednavan">
+    </a>
+
+
 <!---
 Ednavan/Ednavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
