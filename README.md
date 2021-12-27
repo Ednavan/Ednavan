@@ -41,7 +41,15 @@ Academic training in Technical Maintenance and Support from the Institute of Edu
     </a>
 </p>
 
+<p align="center">
 
+## Total de vistas ao meu perfil <br>
+
+<p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/Ednavan/count.svg">
+</p>
+
+</p>
 <!---
 Ednavan/Ednavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
